@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 👨‍💻 Cybersecurity enthusiast & PICT’26 student with hands-on skills in threat detection, log analysis & red/blue team simulation. <br>🖥️ Built SentriNet (Virtual SOC), HoneySnare (Honeypot), and ShadowKey (Key Logger). <br>⚡ Skilled in Python, Linux, Wazuh & Security Onion. <br>🌱 Exploring AI in security & open to Summer 2025 internships!
 
 
