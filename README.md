@@ -2,6 +2,21 @@
   <img height="150" src="https://media4.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=6c09b9529iznjbos4j3mgzvasgwtnvv1xu5ihjvue3ukz7sj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/vedang-gharat/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:rvvgharat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/_.vedang___/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/CRYPT1CM1CE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+</div>
+
 ###
 
 # About Me:
