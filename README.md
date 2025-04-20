@@ -46,12 +46,12 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a></p>
 
 # GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=smugler79&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smugler79&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=smugler79&show_icons=true&locale=en" alt="smugler79" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smugler79&" alt="smugler79" /></p>
-
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=smugler79&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
