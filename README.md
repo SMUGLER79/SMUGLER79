@@ -2,6 +2,8 @@
   <img height="150" src="https://media4.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=6c09b9529iznjbos4j3mgzvasgwtnvv1xu5ihjvue3ukz7sj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/vedang-gharat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -21,23 +23,6 @@
 
 # About Me:
 👨‍💻 Cybersecurity enthusiast & PICT’26 student with hands-on skills in threat detection, log analysis & red/blue team simulation. <br>🖥️ Built SentriNet (Virtual SOC), HoneySnare (Honeypot), and ShadowKey (Key Logger). <br>⚡ Skilled in Python, Linux, Wazuh & Security Onion. <br>🌱 Exploring AI in security & open to Summer 2025 internships!
-
-
-# Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/vedang-gharat/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:rvvgharat@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/CRYPT1CM1CE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.vedang___/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 
 # Tech Stack:
