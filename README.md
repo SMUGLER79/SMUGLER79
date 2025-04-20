@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif"  />
+  <img height="150" src="[https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif](https://media4.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=6c09b9529iznjbos4j3mgzvasgwtnvv1xu5ihjvue3ukz7sj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)"  />
 </div>
 
 ###
