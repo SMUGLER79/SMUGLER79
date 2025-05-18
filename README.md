@@ -33,6 +33,9 @@
   * [HoneySnare](https://github.com/SMUGLER79/HoneySnare) - Stealthy honeypot agent that detects and alerts on unauthorized file system access, enhancing threat visibility and early intrusion detection.
   * [ShadowKey](https://github.com/SMUGLER79/ShadowKey) - Python based keylogger for ethical red teaming, capturing keystrokes, clipboard, and window activity.
 
+## LLM
+  * [Quanta Bot](https://github.com/SMUGLER79/Quanta_Bot) - A Discord bot powered by Gemini-Pro API for AI-driven text and image interactions with dynamic responses and customizable user experiences.
+
 ###
 
 # Tech Stack:
