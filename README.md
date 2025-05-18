@@ -28,7 +28,7 @@
 
 # Projects
 ## Cybersecurity
-  * [Malware Analysis Lab](https://github.com/SMUGLER79/MalScan---Malware-Analysis-Lab) - Analyze, dissect, and understand real-world malware using isolated VMs and powerful forensic tools—all guided by hands-on APT simulations.
+  * [MalScan](https://github.com/SMUGLER79/MalScan---Malware-Analysis-Lab) - Analyze, dissect, and understand real-world malware using isolated VMs and powerful forensic tools—all guided by hands-on APT simulations.
   * [SentriNet](https://github.com/SMUGLER79/SentriNet---Enterprise-Security-Lab) - Simulate enterprise-grade user access, MFA, and threat detection with Wazuh & Security Onion—powering automated SOC workflows and real-time incident response.
   * [HoneySnare](https://github.com/SMUGLER79/HoneySnare) - Stealthy honeypot agent that detects and alerts on unauthorized file system access, enhancing threat visibility and early intrusion detection.
   * [ShadowKey](https://github.com/SMUGLER79/ShadowKey) - Python based keylogger for ethical red teaming, capturing keystrokes, clipboard, and window activity.
