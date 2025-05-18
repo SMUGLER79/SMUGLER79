@@ -22,7 +22,7 @@
 ###
 
 # About Me:
-👨‍💻 Cybersecurity enthusiast & PICT’26 student with hands-on skills in threat detection, log analysis & red/blue team simulation. <br>🖥️ Built MalScan(Automated Malware Analysis Lab), SentriNet (Virtual SOC), and HoneySnare (Honeypot). <br>⚡ Skilled in Python, C++, Bash, and Linux. <br>🌱 Exploring AI in security.
+👨‍💻 Cybersecurity enthusiast & PICT’26 student with hands-on skills in threat detection, log analysis & red/blue team simulation. <br>🖥️ Built MalScan (Automated Malware Analysis Lab), SentriNet (Virtual SOC), and HoneySnare (Honeypot). <br>⚡ Skilled in Python, C++, Bash, and Linux. <br>🌱 Exploring AI in security.
 
 ###
 
