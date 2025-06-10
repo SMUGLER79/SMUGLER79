@@ -34,7 +34,7 @@
   * [ShadowKey](https://github.com/SMUGLER79/ShadowKey) - Python based keylogger for ethical red teaming, capturing keystrokes, clipboard, and window activity.
 
 ## Blockchain
-  * [Smart Contract](https://github.com/SMUGLER79/Cerify-Audit-Verification-Workflow)
+  * [Smart Contract](https://github.com/SMUGLER79/Cerify-Audit-Verification-Workflow) - A smart contract simulating real-world DeFi exploits and insecure Web3 practices to demonstrate common Solidity vulnerabilities using static and dynamic analysis tools.
 
 ## LLM
   * [Quanta Bot](https://github.com/SMUGLER79/Quanta_Bot) - A Discord bot powered by Gemini-Pro API for AI-driven text and image interactions with dynamic responses and customizable user experiences.
