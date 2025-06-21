@@ -27,7 +27,7 @@
 ###
 
 # Projects
-## C
+## C/C++
   * [BootLine](https://github.com/SMUGLER79/BootLine) - A custom Linux OS built from Scratch.
 
 ## Cybersecurity
