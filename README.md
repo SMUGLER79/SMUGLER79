@@ -27,6 +27,9 @@
 ###
 
 # Projects
+## C
+  * [BootLine](https://github.com/SMUGLER79/BootLine) - A custom Linux OS built from Scratch.
+
 ## Cybersecurity
   * [MalScan](https://github.com/SMUGLER79/MalScan---Malware-Analysis-Lab) - Analyze, dissect, and understand real-world malware using isolated VMs and powerful forensic tools—all guided by hands-on APT simulations.
   * [SentriNet](https://github.com/SMUGLER79/SentriNet---Enterprise-Security-Lab) - Simulate enterprise-grade user access, MFA, and threat detection with Wazuh & Security Onion—powering automated SOC workflows and real-time incident response.
