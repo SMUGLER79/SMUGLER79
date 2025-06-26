@@ -22,7 +22,7 @@
 ###
 
 # About Me:
-👨‍💻 Cybersecurity enthusiast & PICT’26 student with hands-on skills in threat detection, log analysis & red/blue team simulation.<br>🏆 Ranked in the **global top 5%** on **TryHackMe**. <br>🖥️ Built multiple projects in the domain of `Cybersecurity`, `Blockchain` and `LLM`. <br>⚡ Skilled in Python, C++, Bash, and Linux. <br>🌱 Exploring AI in security.
+👨‍💻 Cybersecurity enthusiast & PICT’26 student with hands-on skills in threat detection, log analysis & red/blue team simulation.<br>🏆 Ranked in the **global top 5%** on **TryHackMe**. <br>🖥️ Built multiple projects in the domain of `Cybersecurity`, `Blockchain` and `LLM`. <br>⚡ Skilled in Python, C++, Bash, and Linux. <br>🌱 Exploring security in AI.
 
 ###
 
