@@ -36,6 +36,9 @@
 ## LLM
   * [Quanta Bot](https://github.com/SMUGLER79/Quanta_Bot) - A Discord bot powered by Gemini-Pro API for AI-driven text and image interactions with dynamic responses and customizable user experiences.
 
+## Data Analysis
+  * [Zoomlytics](https://github.com/SMUGLER79/Zoom-Subscription-Analysis) - Sales analytics pipeline using SQL and Tableau to uncover key trends across plan types, billing periods, and global regions to support strategic decision-making.
+    
 ## Blockchain
   * [Smart Contract](https://github.com/SMUGLER79/Cerify-Audit-Verification-Workflow) - A smart contract simulating real-world DeFi exploits and insecure Web3 practices to demonstrate common Solidity vulnerabilities using static and dynamic analysis tools.
 
