@@ -38,6 +38,7 @@
 
 ## Data Analysis
   * [Zoomlytics](https://github.com/SMUGLER79/Zoom-Subscription-Analysis) - Sales analytics pipeline using SQL and Tableau to uncover key trends across plan types, billing periods, and global regions to support strategic decision-making.
+  * [HealthSync](https://github.com/SMUGLER79/Hospital-Analysis) - Real-time healthcare data pipeline using Azure, Databricks, and SQL to track patient flow across departments and deliver fast, accurate analytics for hospital decision-making.
     
 ## Blockchain
   * [Smart Contract](https://github.com/SMUGLER79/Cerify-Audit-Verification-Workflow) - A smart contract simulating real-world DeFi exploits and insecure Web3 practices to demonstrate common Solidity vulnerabilities using static and dynamic analysis tools.
