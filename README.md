@@ -33,9 +33,10 @@
   * [HoneySnare](https://github.com/SMUGLER79/HoneySnare) - Stealthy honeypot agent that detects and alerts on unauthorized file system access, enhancing threat visibility and early intrusion detection.
   * [ShadowKey](https://github.com/SMUGLER79/ShadowKey) - Python based keylogger for ethical red teaming, capturing keystrokes, clipboard, and window activity.
 
-## LLM
+## LLM/AI
+  * [CI/CD Log Intelligent Assistant](https://github.com/SMUGLER79/CI-CD-Log-Intelligent-Assistant) - A Python-based CI/CD Log Intelligence Assistant using FastAPI, BERT embeddings, and a RAG pipeline to analyze 10,000+ pipeline logs and deliver instant, AI-driven failure insights for DevOps teams.
   * [Quanta Bot](https://github.com/SMUGLER79/Quanta_Bot) - A Discord bot powered by Gemini-Pro API for AI-driven text and image interactions with dynamic responses and customizable user experiences.
-
+ 
 ## Data Analysis
   * [Zoomlytics](https://github.com/SMUGLER79/Zoom-Subscription-Analysis) - Sales analytics pipeline using SQL and Tableau to uncover key trends across plan types, billing periods, and global regions to support strategic decision-making.
   * [HealthSync](https://github.com/SMUGLER79/Hospital-Analysis) - Real-time healthcare data pipeline using Azure, Databricks, and SQL to track patient flow across departments and deliver fast, accurate analytics for hospital decision-making.
